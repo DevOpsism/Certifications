@@ -25,7 +25,3 @@ Medium: https://medium.com/@global_noble
 
 Qwiklabs: https://www.qwiklabs.com/public_profiles/5b877c10-3dae-4c59-a33a-ef2b8e450e5a
 
-Acclaims: https://www.youracclaim.com/users/naval-thakur/badges
-
-
-
